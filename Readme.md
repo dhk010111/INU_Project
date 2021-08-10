@@ -28,9 +28,9 @@ INU의 서비스는 잠재적 감염자가 출입하지 못하게막는 문지�
 명재효 '설명'
 
 ## Framework
-Develop Language : Python, html, css
-Server : Django, nginx, AWs EC2
-Module : 아두이노(예정), 라즈베리파이(예정), 디바이스(스마트폰)
+Develop Language : Python, html, css  
+Server : Django, nginx, AWs EC2  
+Module : 아두이노(예정), 라즈베리파이(예정), 디바이스(스마트폰)  
 
 ## System Algorithm
 
